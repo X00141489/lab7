@@ -1,0 +1,8 @@
+2017-11-24 15:33:02,348 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-8 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-11-24 15:33:02,424 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-8 - Application started (Dev)
+2017-11-24 15:33:35,410 [INFO] from play.core.server.AkkaHttpServer in pool-5-thread-4 - Stopping server...
